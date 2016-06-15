@@ -1,2 +1,2 @@
 # hello-world
-10 min demo
+Following 10 min demo guidelines
